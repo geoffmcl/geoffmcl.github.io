@@ -26,6 +26,8 @@ http://geoffmcl.github.io/
 
 A COOL way to HOST html on GitHub. Yes, there are some restrictions as to what the GitHub HTTP server will handle, like say server side scripts, such as PHP, ... but for most normal HTML pages, it is fine.
 
+And also note the GitHub html server caches the html files, so after a html change, sometimes it can be several seconds before the change appears, after a required refresh...
+
 Thanks to Theo for pointing out this important repo naming convention that makes this html viewing simple.
 
 ; eof
