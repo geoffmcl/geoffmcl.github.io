@@ -1,6 +1,6 @@
 # github io test #
 
-20150906: After renaming repository to `geoffmcl.github.io` from just `github.io`! **Importat** change since it adds an easier way to view HTML.
+20150906: After renaming repository to `geoffmcl.github.io` from just `github.io`! **Important** change since it adds an easier way to view HTML.
 
 20131121: Test of viewing as well as storing web content on github
 
